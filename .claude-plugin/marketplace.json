@@ -1,0 +1,19 @@
+{
+  "name": "awesome-pm-skills",
+  "owner": {
+    "name": "Udi Menkes",
+    "url": "https://github.com/menkesu"
+  },
+  "metadata": {
+    "description": "29 AI-powered product management skills built from Lenny's Podcast — covering building, strategy, communication, leadership, metrics, and launch",
+    "version": "1.0.0",
+    "repository": "https://github.com/menkesu/awesome-pm-skills"
+  },
+  "plugins": [
+    {
+      "name": "awesome-pm-skills",
+      "description": "29 PM skills for strategic PMs: positioning, launch execution, prioritization, OKRs, stakeholder craft, exec comms, JTBD, continuous discovery, and more — based on frameworks from Lenny's Podcast guests",
+      "source": "./"
+    }
+  ]
+}
