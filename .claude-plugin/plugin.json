@@ -1,0 +1,12 @@
+{
+  "name": "awesome-pm-skills",
+  "description": "29 AI-powered product management skills built from Lenny's Podcast — builder, communicator, strategist, navigator, leader, and measurement modes",
+  "version": "1.0.0",
+  "author": {
+    "name": "Udi Menkes"
+  },
+  "homepage": "https://github.com/menkesu/awesome-pm-skills",
+  "repository": "https://github.com/menkesu/awesome-pm-skills",
+  "license": "MIT",
+  "skills": "."
+}
